@@ -1,1 +1,1 @@
-# ts-node-esm-template
+Minimalistic template for using TypeScript with Node.js and ESM.
